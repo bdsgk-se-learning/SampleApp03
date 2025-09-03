@@ -1,2 +1,10 @@
 # TargetApp03
-Polaris Hands-onセミナーで使用する演習用ソースコード
+
+Polaris の ビルドを伴うC言語の SAST スキャンを試すサンプルアプリケーションです。
+
+## 事前準備（ビルド確認）
+
+```bash
+make 
+```
+
