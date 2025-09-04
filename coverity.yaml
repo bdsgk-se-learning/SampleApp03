@@ -1,0 +1,9 @@
+# https://poc.polaris.blackduck.com/developer/default/documentation/t_cov-thin-client
+capture: 
+	build: 
+		clean-command: 
+		build-command: 
+  #compiler-configuration:
+  #  cov-configure:
+  #  - [ --template, --compiler, arm-linux-gnueabi-gcc, --comptype, gcc ]
+  #  - [ --template, --compiler, arm-linux-gnueabi-g+, --comptype, g+ ] 
