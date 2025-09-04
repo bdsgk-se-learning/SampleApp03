@@ -1,4 +1,4 @@
-# TargetApp03
+# SampleApp03
 
 Polaris の ビルドを伴うC言語の SAST スキャンを試すサンプルアプリケーションです。
 
